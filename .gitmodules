@@ -25,3 +25,6 @@
 	path = kardex
 	url = git@github.com:rocketgithub/kardex.git
 	branch = 13.0
+[submodule "rogil"]
+	path = rogil
+	url = git@github.com:aquih/rogil.git
